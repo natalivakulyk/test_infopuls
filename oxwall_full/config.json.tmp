@@ -1,0 +1,15 @@
+{
+  "base_url": "<app_base_url>",
+  "db": {
+    "host": "<db_host>",
+    "user": "<db_user>",
+    "password": "<db_user_password>",
+    "database": "<db_name>"
+  },
+  "admin": {
+    "username": "<default_admin_username>",
+    "password": "<default_admin_password>",
+    "email": "<default_admin_email>",
+    "real_name": "<default_admin_realname>"
+  }
+}
